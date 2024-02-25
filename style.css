@@ -1,5 +1,20 @@
+body{border-color: Indigo;
+border-style: groove;
+border-width: 3px;
+  
+padding:20px;
+  
+  
+buffer:20px;
+  
+margin-top:20px;
+margin-left: 14px;
+margin-right:30
+margin-bottom:20
+  
+}
 
-1{Color: DarkViolet}
+h1{Color:DarkViolet}
 h2{color:BlueViolet}
 h3{color:BlueViolet}
 h4{color:DarkOrchid}
@@ -9,21 +24,30 @@ li {list-style-type:square; color:Indigo}
 
 background-color {lightgrey}
 
-body{font-family:Optima, Verdana, sans-serif;}
-
+body{font-family:Optima, Verdana, sans-serif;
+}
 
 h1{text-align:center
 }
-.img{
-  border-radius:50%;
-  width: 100px;
-  height: 100px;
-  display:block;
-  float:left:20px
-}
-HR {70%}
 
-p.one{border-style:dotted; border-width:20px, bottom; 
 }
+.HR {60%}
 
-P.blocktext 
+ 
+.heading{font: lucida handwriting; text-align:center; border-bottom: groove; 60%;
+  .intro{font-family:cursive; font-size:18px;font-style:bold;}
+  .email {font-family: cursive;font-size:18px;}
+  .name {font-family: cursive; font-size:19px;}
+  .jobs {text-align:left; 
+    }
+    
+.experience {font-family:Optima, Verdana, sans-serif;font-weight: bolder;font-size:25px;text-align:center;border: dotted; 
+  60%
+} border {3px;
+color:Indigo; 10 10 10 10
+}
+  .jobs2{text-align:left;}
+  .jobs3{text-align:left;}
+  
+    
+  }
